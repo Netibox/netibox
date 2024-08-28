@@ -4,3 +4,11 @@ https://statically.io/convert/
 https://github.com/Netibox/netibox/blob/main/swiper-bundle.min.js
 ตัวอย่าง 
 https://cdn.statically.io/gh/Netibox/netibox/main/swiper-bundle.min.js
+
+โค้ด ด้านบน
+  <link rel="stylesheet" href="https://cdn.statically.io/gh/Netibox/netibox/main/style.min.css">
+  <script src="https://cdn.statically.io/gh/Netibox/netibox/main/jquery.min.js"></script>
+
+โค้ด ด้านล่าง
+ <script src="https://cdn.statically.io/gh/Netibox/netibox/main/script.min.js"></script>
+ <script src="https://cdn.statically.io/gh/Netibox/netibox/main/swiper-bundle.min.js"></script>
